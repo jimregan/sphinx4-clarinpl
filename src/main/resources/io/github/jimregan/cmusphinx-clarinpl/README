@@ -1,0 +1,2 @@
+Trained on the data from https://github.com/danijel3/ClarinStudioKaldi
+Phoneset has been modified because sphinxtrain cannot distinguish case differences
